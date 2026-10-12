@@ -13,8 +13,7 @@ COS'E'
   al punto 1.
   Sito: https://statisticava.github.io/report-imprese-stockview/
   (repository GitHub StatisticaVA/report-imprese-stockview: se si modifica
-  index.html va ricaricato li'). Copia sull'account personale:
-  https://lucaportu.github.io/report-imprese-stockview/. Funziona anche aperta con doppio clic.
+  index.html va ricaricato li'). Funziona anche aperta con doppio clic.
   I file NON escono dal computer: la pagina non invia dati a nessun server.
   Sostituisce la versione 5_Web_Imprese_Stockview.
 
